@@ -1,6 +1,6 @@
 #include<stdio.h>
 #include<string.h>
-//Ruba
+
 
 
 int authenticateController(const char *password) {
@@ -34,7 +34,7 @@ int takeoffconflict(int distanceBetweenPlanes) {
     return 0;  
 }
 
-//Hiba 
+
 
 
 typedef enum {
@@ -101,7 +101,7 @@ void filesearch(const char *filename, const char *code)
     fclose(file);
 }
 
-//Sehla 
+
 
 
 typedef struct{
